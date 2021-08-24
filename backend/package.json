@@ -13,7 +13,8 @@
     "node": "^16.6.1",
     "prisma": "^2.29.1",
     "ts-node": "^10.2.1",
-    "typescript": "^4.3.5"
+    "typescript": "^4.3.5",
+    "yarn": "^1.22.11"
   },
   "scripts": {
     "dev": "nodemon --watch ./ --ignore node_modules/ --exec ts-node src/server.ts -e ts"
